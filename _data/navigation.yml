@@ -24,7 +24,7 @@ main:
     url: /year-archive/
     
   - title: "CV"
-    url: "/files/CV_Stavros_X_Drakopoulos.pdf"
+    url: "https://stavrosdrakopoulos.github.io/files/CV_Stavros_X_Drakopoulos.pdf"
     target: "_blank"
     
   # - title: "CV"
