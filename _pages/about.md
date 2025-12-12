@@ -8,8 +8,8 @@ redirect_from:
 ---
 
 
-About Me
-======
+## About Me
+
 [DRAFT]
 I was born on May 19, 1993 in Athens, the capital of Greece.
 
