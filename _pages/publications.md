@@ -13,10 +13,10 @@ author_profile: true
 
 ## Publications in Peer-reviewed Journals
 
-S.X. Drakopoulos. (2025).  
-Revisiting the dielectric spectrum: Tricks and treats of analysis and interpretation around the conductivity relaxation.  
-\textit{IET Nanodielectrics}.  
-<a href="https://doi.org/10.1049/nde2.70020" target="_blank" rel="noopener">DOI</a>
+**S.X. Drakopoulos**. (2025).  
+*Revisiting the dielectric spectrum: Tricks and treats of analysis and interpretation around the conductivity relaxation.*
+_IET Nanodielectrics_.  
+<a href="https://doi.org/10.1049/nde2.70020" target="_blank" rel="noopener">[DOI](https://doi.org/10.1049/nde2.70020)</a>
 
 ---
 
