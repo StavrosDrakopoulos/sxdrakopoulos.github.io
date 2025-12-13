@@ -22,18 +22,23 @@ In 2023, I moved to the US to join the Priestley Lab, led by Professor Rodney D.
 ## Education & Training
 
 **Associate Research Scholar** (2023 – present) Princeton University, Princeton Materials Institute
+
 Advisor: Rodney D. Priestley | Research Topic: Relaxation and Charge Transport Dynamics of Various Polymer-based Systems. 
 
 **Postdoctoral Research Associate** (2021 – 2023) University of Bath, Department of Physics
+
 Advisor: Kamal Asadi | Research Topic: Dielectric Spectroscopy of Conjugated Polymers, Polyelectrolytes, and Polymer-Grafted Nanoparticles.
 
 **Postdoctoral Research Associate** (2020 – 2021) University of Birmingham, School of Metallurgy and Materials
+
 Advisor: Emma Kendrick | Research Topic: Electrode Manufacturing for Li-ion Batteries.
 
 **Ph.D. in Materials Engineering** (2016 – 2019) Loughborough University, Department of Materials
+
 Supervisors: Sara Ronca, Ignacio Martin-Fabiani | Doctoral Thesis: Disentangled ultra-high molecular weight polyethylene and its nanocomposites: relaxation dynamics, entanglement formation and anisotropic properties due to orientation.
 
 **B.Sc. in Materials Science** (2011 – 2016) University of Patras, Department of Materials Science
+
 Supervisor: Georgios C. Psarras | Thesis: Chemical composition, thermomechanical behavior and electrical response of biocomposite thermoplastic starch matrix materials, reinforced with latex and cellulose particles.
 
 ## Research Interest
