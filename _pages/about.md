@@ -8,7 +8,6 @@ redirect_from:
 ---
 
 
-## About Me
 
 My name is Stavros X. Drakopoulos and I am an Associate Research Scholar in the Priestley Lab and the Princeton Materials Institute.
 
