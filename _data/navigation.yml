@@ -17,20 +17,11 @@ main:
   - title: "Teaching"
     url: /teaching/    
     
-  - title: "Portfolio"
-    url: /portfolio/
-        
-  - title: "Blog Posts"
-    url: /year-archive/
+  - title: "Acknowledgment"
+    url: /acknowledgment/
     
   - title: "CV"
     url: "https://stavrosdrakopoulos.github.io/files/CV_Stavros_X_Drakopoulos.pdf"
     target: "_blank"
-    
-  # - title: "CV"
-  #   url: /cv-json/
-    
-  - title: "Guide"
-    url: /markdown/
 
 
